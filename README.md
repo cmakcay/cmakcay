@@ -1,4 +1,4 @@
-Robotics, Systems and Control!
+Robotics, Systems and Control
 
 <!---
 cmakcay/cmakcay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
